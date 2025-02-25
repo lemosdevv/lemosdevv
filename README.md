@@ -6,7 +6,7 @@
 ##
 
 ### 💻Tecnologias
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Icon" width="100" height="100" />
           
     
 
