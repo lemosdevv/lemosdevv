@@ -9,7 +9,8 @@
 <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Icon" width="80" height="80" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="Angular Icon" width="80" height="80"/>
-    <img src="URL_DA_TERCEIRA_IMAGEM" alt="Terceira Imagem" width="100" height="100" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySql Icon" width="80" height="80"/>
+          
 </div>
   
   
