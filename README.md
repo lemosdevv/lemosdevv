@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Mateus Lemos do Nascimento
 
-- 🌱 Estudando Angular
-- 📫 Contate-me no email teuse853@gmail.com
+🌱 Atualmente, estou aprendendo:
+- Angular
+- Microserviços
+- Inteligência Artificial
 
 ##
 
