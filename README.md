@@ -297,7 +297,7 @@ Estou aberto a oportunidades, projetos e colaborações na área de desenvolvime
 
 <a href="mailto:mateus.lemos.developer@gmail.com">
 
-  <img src="https://img.shields.io/badge/Gmail-teusse853%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail de contato de Mateus Lemos" title="Enviar e-mail" />
+  <img src="https://img.shields.io/badge/Gmail-mateus.lemos.developer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail de contato de Mateus Lemos" title="Enviar e-mail" />
 </a>
 <a href="https://www.linkedin.com/in/mateus-lemos-do-nascimento-a7b616221" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Mateus%20Lemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil do LinkedIn de Mateus Lemos" title="Acessar LinkedIn" />
