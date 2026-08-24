@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFBF,100:0066FF&height=180&section=header&text=Mateus%20Lemos%20do%20Nascimento&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Back-end%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=16" alt="Banner de cabeçalho do perfil de Mateus Lemos do Nascimento" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFBF,100:0066FF&height=180&section=header&text=Mateus%20Lemos%20do%20Nascimento&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20-%20Back-end%20Java%20e%20Spring%20Boot&descAlignY=58&descSize=16" alt="Banner de cabeçalho do perfil de Mateus Lemos do Nascimento" width="100%" />
 
 ### Olá, seja bem-vindo(a) ao meu perfil 👋
 
@@ -232,12 +232,8 @@ API RESTful em Java desenvolvida durante a Santander Dev Week, com modelagem de 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lemosdevv&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFBF&icon_color=00BFBF&text_color=C9D1D9&locale=pt-br" alt="Estatísticas gerais do GitHub de lemosdevv" title="Estatísticas do GitHub" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosdevv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios públicos de lemosdevv" title="Linguagens mais utilizadas" width="48%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=lemosdevv&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFBF&fire=0066FF&currStreakLabel=00BFBF&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições de lemosdevv" title="Sequência de contribuições" width="70%" />
+<img src="https://github-stats-extended.vercel.app/api?username=lemosdevv&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFBF&icon_color=00BFBF&text_color=C9D1D9&locale=pt-br" alt="Estatísticas gerais do GitHub de lemosdevv" title="Estatísticas do GitHub" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lemosdevv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFBF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios públicos de lemosdevv" title="Linguagens mais utilizadas" width="48%" />
 
 <br><br>
 
@@ -245,7 +241,7 @@ API RESTful em Java desenvolvida durante a Santander Dev Week, com modelagem de 
 
 </div>
 
-<p align="center"><sub>O gráfico de linguagens reflete uma estimativa com base nos repositórios públicos e não representa uma medida absoluta de experiência profissional.</sub></p>
+<p align="center"><sub>O card de linguagens reflete uma estimativa com base nos repositórios públicos e não representa uma medida absoluta de experiência profissional.</sub></p>
 
 <br>
 
