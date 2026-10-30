@@ -29,18 +29,13 @@
 
 ## Sobre mim
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFBF,100:0066FF&height=3&width=100%" alt="Linha divisória" />
-</div>
-<br>
+Sou Desenvolvedor de Software com experiência em desenvolvimento Full Stack, automação de processos, integração entre sistemas e manipulação de dados utilizando Java, SQL, Python e TypeScript.
 
-Sou **Desenvolvedor de Software**, com foco principal em **desenvolvimento Full Stack utilizando Java, Python e TypeScript**. Trabalho na construção de **APIs REST e Automações**, aplicando conceitos de arquitetura em camadas, persistência de dados e boas práticas de desenvolvimento em projetos práticos que compõem meu portfólio.
+Na minha experiência mais recente, participei do desenvolvimento de uma solução de automação voltada para a extração de relatórios fiscais e faturamento a partir do sistema Domínio. Atuei desde o mapeamento das regras de negócio até a implementação da solução, utilizando consultas SQL, Programação Orientada a Objetos (POO) em Java e integração com o Onvio.
 
-Tenho interesse crescente em **arquitetura de software**, **bancos de dados**, **aplicações escaláveis**, **cloud computing**, **microsserviços** e **inteligência artificial**, áreas que venho estudando de forma contínua para evoluir como desenvolvedor.
+O projeto reduziu um processo manual de aproximadamente 30 minutos para apenas 1 a 2 minutos, aumentando significativamente a produtividade da equipe e reduzindo erros operacionais.
 
-Também possuo conhecimentos em tecnologias de front-end, principalmente **JavaScript**, **TypeScript**, **Angular** e **React**, o que me ajuda a compreender melhor a integração entre back-end e front-end nos projetos que desenvolvo.
-
-Estou sempre buscando aprofundar meus conhecimentos técnicos, construir projetos práticos e me manter **aberto a oportunidades, colaborações e novos desafios** na área de desenvolvimento de software.
+Tenho interesse especial em Arquitetura de Software, Inteligência Artificial, Engenharia de Dados, Microsserviços e Cloud Computing.
 
 <br>
 
@@ -48,6 +43,10 @@ Estou sempre buscando aprofundar meus conhecimentos técnicos, construir projeto
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFBF,100:0066FF&height=3&width=100%" alt="Linha divisória" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
 <br>
 
@@ -137,6 +136,14 @@ Estou sempre buscando aprofundar meus conhecimentos técnicos, construir projeto
 </td>
 <td width="50%" valign="top">
 
+**Automação e Dados**
+- SQL avançado
+- Extração e transformação de dados
+- Automação de processos corporativos
+- Integração entre sistemas
+- Engenharia reversa de banco de dados
+- Relatórios fiscais e faturamento
+  
 **Em evolução**
 - Arquitetura de microsserviços
 - Aplicações escaláveis
