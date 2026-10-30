@@ -34,7 +34,7 @@
 </div>
 <br>
 
-Sou **Desenvolvedor de Software**, com foco principal em **desenvolvimento back-end utilizando Java e Spring Boot**. Trabalho na construção de **APIs REST**, aplicando conceitos de arquitetura em camadas, persistência de dados e boas práticas de desenvolvimento em projetos práticos que compõem meu portfólio.
+Sou **Desenvolvedor de Software**, com foco principal em **desenvolvimento Full Stack utilizando Java, Python e TypeScript**. Trabalho na construção de **APIs REST e Automações**, aplicando conceitos de arquitetura em camadas, persistência de dados e boas práticas de desenvolvimento em projetos práticos que compõem meu portfólio.
 
 Tenho interesse crescente em **arquitetura de software**, **bancos de dados**, **aplicações escaláveis**, **cloud computing**, **microsserviços** e **inteligência artificial**, áreas que venho estudando de forma contínua para evoluir como desenvolvedor.
 
