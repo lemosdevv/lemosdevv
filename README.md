@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFBF,100:0066FF&height=180&section=header&text=Mateus%20Lemos%20do%20Nascimento&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20-%20Back-end%20Java%20e%20Spring%20Boot&descAlignY=58&descSize=16" alt="Banner de cabeçalho do perfil de Mateus Lemos do Nascimento" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFBF,100:0066FF&height=180&section=header&text=Mateus%20Lemos%20do%20Nascimento&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20-%20Full-Stack%20Java%20e%20Python%TypeScript%20&descAlignY=58&descSize=16" alt="Banner de cabeçalho do perfil de Mateus Lemos do Nascimento" width="100%" />
 
 ### Olá, seja bem-vindo(a) ao meu perfil 👋
 
